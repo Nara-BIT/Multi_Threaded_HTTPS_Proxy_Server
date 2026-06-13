@@ -1,0 +1,6 @@
+# HTTP Proxy Server Configuration
+# ────────────────────────────────
+PORT=8080
+THREADS=8
+CACHE_SIZE=200
+TIMEOUT=10
