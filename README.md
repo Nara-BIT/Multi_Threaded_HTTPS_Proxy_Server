@@ -1,6 +1,6 @@
 # HTTP Proxy Server
 
-A multi-threaded HTTP/HTTPS proxy server written in C++17.
+A multi-threaded HTTP/HTTPS proxy server written in C++-17.
 
 ## Architecture
 
